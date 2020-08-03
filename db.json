@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "posts": [
+      {
+         "id": 1,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-1",
+         "featured_image": "https://drive.google.com/uc?id=1m-jiVk4y_7SfkM594etP1YO-vipE_Gn3"
+      },
+      {
+         "id": 2,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-2",
+         "featured_image": "https://drive.google.com/uc?id=1iXrI34tuGTt6lnfd2os84tPeff8FoSDF"
+      },
+      {
+         "id": 3,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-3",
+         "featured_image": "https://drive.google.com/uc?id=1gFJfx1N4S8aMc5b0HMDJIe6sXwJJuPco"
+      },
+      {
+         "id": 4,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-4",
+         "featured_image": "https://drive.google.com/uc?id=1bvSZXq26egw1BregiqIz665ItKQW8p7B"
+      },
+      {
+         "id": 5,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-5",
+         "featured_image": "https://drive.google.com/uc?id=19ZaB_JPbQDIOcqaCzfoB3F70JKJFNkkH"
+      },
+      {
+         "id": 6,
+         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "slug": "blog-post-6",
+         "featured_image": "https://drive.google.com/uc?id=1Vh_DekxwURofhqewXDjfdWQRSw4p17dj"
+      }
+   ]
 }
